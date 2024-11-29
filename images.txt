@@ -1,1 +1,3 @@
-rabbitmq:3.8-management
+prom/prometheus
+prom/node-exporter
+grafana/grafana
