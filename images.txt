@@ -1,3 +1,2 @@
-prom/prometheus
-prom/node-exporter
-grafana/grafana
+prom/mysqld-exporter
+oliver006/redis_exporter
