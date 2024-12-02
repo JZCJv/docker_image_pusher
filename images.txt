@@ -1,2 +1,2 @@
-prom/mysqld-exporter
-oliver006/redis_exporter
+grafana/loki
+grafana/promtail
